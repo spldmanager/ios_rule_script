@@ -1,0 +1,18 @@
+# NAME: Zhuorui Securities (ZR) Crypto Fix
+# AUTHOR: you
+# UPDATED: 2026-02-10
+# DOMAIN-SUFFIX: 3
+# DOMAIN: 2
+# TOTAL: 5
+
+# 主站（可选，但建议保留）
+DOMAIN-SUFFIX,zr.hk
+
+# 卓锐 App 后端（你日志里明确命中，且被 GEOIP CN 直连）
+DOMAIN-SUFFIX,zr66.com
+
+# 虚拟币相关（你日志里命中）
+DOMAIN-SUFFIX,zrsec.com
+
+# 你日志里出现的其它卓锐域名（建议一起加）
+DOMAIN,zrsecbk.com
