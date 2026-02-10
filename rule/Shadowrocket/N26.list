@@ -1,0 +1,19 @@
+# NAME: N26
+# AUTHOR: you
+# UPDATED: 2026-02-10
+# DOMAIN-SUFFIX: 6
+# DOMAIN: 4
+# TOTAL: 10
+
+# --- N26 核心接口（日志命中）---
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,tech26.de
+DOMAIN,api.tech26.de
+DOMAIN,fpt.tech26.de
+DOMAIN,spc.n26.com
+
+# --- N26 App 常见依赖（日志命中；不加有时会影响初始化/风控/上报）---
+DOMAIN-SUFFIX,usercentrics.eu
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,braze.eu
+DOMAIN-SUFFIX,bugsnag.com
