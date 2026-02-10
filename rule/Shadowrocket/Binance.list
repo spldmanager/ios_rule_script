@@ -1,0 +1,16 @@
+# NAME: Binance
+# AUTHOR: you
+# UPDATED: 2026-02-10
+# DOMAIN-SUFFIX: 4
+# DOMAIN: 0
+# TOTAL: 4
+
+# 主站 & App API（日志里大量命中 binance.info / binance.com）
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
+
+# 静态资源/前端资源（日志里命中）
+DOMAIN-SUFFIX,bnbstatic.com
+
+# App 相关接口（日志里命中 www.bsappapi.com）
+DOMAIN-SUFFIX,bsappapi.com
