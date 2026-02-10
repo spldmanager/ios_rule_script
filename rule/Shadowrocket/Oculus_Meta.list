@@ -1,0 +1,17 @@
+# NAME: Oculus / Meta (Quest)
+# AUTHOR: you
+# UPDATED: 2026-02-10
+# DOMAIN-SUFFIX: 5
+# DOMAIN: 0
+# TOTAL: 5
+
+# Oculus / Reality Labs
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+
+# Meta/Facebook 账号/接口/网关/CDN
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+
+# （可选但推荐）现在很多新接口会走 meta.com（本次日志未出现，但常见）
+DOMAIN-SUFFIX,meta.com
