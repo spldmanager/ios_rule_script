@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN,xai.chronosphere.io
+
+# X / Twitter dependency
+DOMAIN-SUFFIX,twitter.com
