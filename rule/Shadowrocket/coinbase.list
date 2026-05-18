@@ -1,0 +1,22 @@
+# Coinbase
+DOMAIN-SUFFIX,coinbase.com,PROXY
+DOMAIN-SUFFIX,coinbasecdn.net,PROXY
+DOMAIN-SUFFIX,coinbase-cloud.com,PROXY
+DOMAIN-SUFFIX,coinbasewallet.com,PROXY
+DOMAIN-SUFFIX,cbhq.net,PROXY
+DOMAIN-SUFFIX,cbhqdns.com,PROXY
+DOMAIN-SUFFIX,cbhqcdn.com,PROXY
+
+# Coinbase API / Assets
+DOMAIN-SUFFIX,api.coinbase.com,PROXY
+DOMAIN-SUFFIX,assets.coinbase.com,PROXY
+DOMAIN-SUFFIX,static-assets.coinbase.com,PROXY
+
+# Coinbase Commerce / Exchange
+DOMAIN-SUFFIX,commerce.coinbase.com,PROXY
+DOMAIN-SUFFIX,exchange.coinbase.com,PROXY
+DOMAIN-SUFFIX,pro.coinbase.com,PROXY
+
+# Wallet / Web3
+DOMAIN-SUFFIX,wallet.coinbase.com,PROXY
+DOMAIN-SUFFIX,cloud.wallet.coinbase.com,PROXY
